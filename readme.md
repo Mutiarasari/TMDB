@@ -28,3 +28,6 @@ fixtures/movieList.json
     "movie2":"The Hunger Games: The Ballad of Songbirds & Snakes"
 }
 ```
+## 🔗 Running Test Record
+[Video Records](https://drive.google.com/file/d/1sixEvfwaJf5F2UBZoQQ_jMHjLsUtxO_v/view?usp=sharing)
+
